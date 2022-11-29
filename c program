@@ -2,4 +2,7 @@ int main(){
 int n;
 n=20;
 printf("%d", n);
+int a;
+a=10;
+printf("%d", a);
 }
